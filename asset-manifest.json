@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/amine-boukhris/react-ai-web/static/css/main.6a870073.css",
+    "main.js": "/amine-boukhris/react-ai-web/static/js/main.acbe0f53.js",
+    "static/js/787.7063da2e.chunk.js": "/amine-boukhris/react-ai-web/static/js/787.7063da2e.chunk.js",
+    "static/media/ai.png": "/amine-boukhris/react-ai-web/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/amine-boukhris/react-ai-web/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/amine-boukhris/react-ai-web/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/amine-boukhris/react-ai-web/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/amine-boukhris/react-ai-web/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/amine-boukhris/react-ai-web/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/amine-boukhris/react-ai-web/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/amine-boukhris/react-ai-web/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/amine-boukhris/react-ai-web/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/amine-boukhris/react-ai-web/index.html",
+    "main.6a870073.css.map": "/amine-boukhris/react-ai-web/static/css/main.6a870073.css.map",
+    "main.acbe0f53.js.map": "/amine-boukhris/react-ai-web/static/js/main.acbe0f53.js.map",
+    "787.7063da2e.chunk.js.map": "/amine-boukhris/react-ai-web/static/js/787.7063da2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a870073.css",
+    "static/js/main.acbe0f53.js"
+  ]
+}
